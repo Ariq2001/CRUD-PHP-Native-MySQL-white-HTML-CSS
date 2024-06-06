@@ -1,0 +1,41 @@
+table, tr, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn-tambah{
+    background-color: rgb(241, 241, 83);
+    font-weight: bold;
+    height: 35px;
+    width: 105px;
+    position: relative;
+    left: 10%;
+}
+table{
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 10px;
+    font-size: 0.8rem;
+}
+th{
+    background-color: rgb(87, 221, 221);
+    height: 30px;
+}
+.td-aksi{
+    text-align: center;
+}
+.btn-edit{
+    background-color: rgb(81, 239, 81);
+    width: 60px;
+    font-weight: bold;
+}
+.btn-hapus{
+    background-color: rgb(237, 70, 70);
+    width: 60px;
+    font-weight: bold;
+}
